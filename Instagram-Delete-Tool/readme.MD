@@ -1,0 +1,3 @@
+My friend came to me with the problem that he had hundreds of messages Instagram. Going through and deleting all of these would take an extraodinary amount of time, so he wanted something a program that could do this automatically. Initially we thought AutoHotkey would be up to the job, but this is less foolproof than something which could actually look at the HTML elements (which could be accomplished in Python - through some research I found Selenium would be a quick way to do it).
+
+This code was thrown together quick and fast, so i'm not proud of the semantics but it was good to do nonetheless.
