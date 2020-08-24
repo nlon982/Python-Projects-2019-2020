@@ -1,4 +1,4 @@
-In the summer holidays while I was working at the Auckland Council, a friend messaged me asking me about the following. He had made hundreds of 3D renders for a client, showing off their product. He was wondering if some application could be made where the user could navigate through his renders. 
+In the summer holidays a friend messaged me asking about the following: he had made hundreds of 3D renders for a client, showing off their product. He was wondering if some application could be made where the user could navigate through his renders (e.g. select from three categories and the corresponding render shows up).
 
 I did some research and found that Python has 2-3 good mainstream GUI libraries; PyQt and Kivy. I chose to go with Kivy because I found the documentation was much better. The problem I later had with Kivy is that it didn't have that native look and feel (things like sub-pixel rendering on text is crucial, I found) e.g. it was a tremendous amount of work to have it looking like a Windows application. 
 
