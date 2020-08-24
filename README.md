@@ -7,11 +7,11 @@ The goal of having these projects on GitHub is:
   3) To show people what i've worked on
   
 Chronology:
-SudokuProject (mid 2019)
-Houdini-Material_Tool (mid-to-late 2019)
-ImageStitcher (late 2019)
-Houdini-MTL-to-Redshift (early 2020)
-Kivy-Project (early 2020)
-Instagram-Delete-Tool (early 2020)
-Photoshop Scripting (mid 2020)
-Get-Slides-from-Video (mid 2020)
+>SudokuProject (mid 2019)
+>Houdini-Material_Tool (mid-to-late 2019)
+>ImageStitcher (late 2019)
+>Houdini-MTL-to-Redshift (early 2020)
+>Kivy-Project (early 2020)
+>Instagram-Delete-Tool (early 2020)
+>Photoshop Scripting (mid 2020)
+>Get-Slides-from-Video (mid 2020)
