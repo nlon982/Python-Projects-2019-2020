@@ -1,0 +1,3 @@
+My friend came to me with the problem that the 3D assets he downloaded from the internet couldn't easily be imported in to Houdini (more specifically Redshift: the render engine he uses). The 3D assets would come with a 'mtl' file which contained all of the information needed to import the file.
+
+We found some code online that did this task, and I spent some time rewwriting this from scratch in to something I found presentable (since the code I found online, I felt, was a bit archaic and not a nice abstraction to extend).
