@@ -4,6 +4,6 @@ I took a course called Phil105G. The course had the resources all spread across 
 
 > I made another Python script which then stitched together these images. I found OneNote's image compression meant I couldn't stitch together all of these images (because that'd make a massive image), so I stitched together rows of 5. This is called 'image stitcher.py'
 
-I have uploaded an example module; the folder 'Module 4' shows screenshots taken with the first tool, and the 'temp dir' subdirectory shows the images stitched together by the second script.
+I have uploaded an example module; the folder 'Module 4' shows screenshots taken with the first script, and the 'temp dir' subdirectory shows the images stitched together by the second script.
 
 This actually turned out to be a project that saved me a lot of time; having the content on OneNote was so helpful. I got it down to being able to learn the content for the week in 3 hours or so (and I pride this on being able to easy navigate through the content thanks to my tool).
