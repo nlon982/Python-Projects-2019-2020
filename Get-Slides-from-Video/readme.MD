@@ -4,4 +4,4 @@ I have the script go through every x amount of frames (obviously the bigger x is
 
 The above logic is crass (I don't think the second pass is necessary - that could be done in the first pass), but this is something I put together as quick as possible.
 
-So the final outcome is: you run this Python file in a folder and it takes every '.mp4' item, and obtains the slides from them - and saves them out (and additionally puts them in a pdf for convenience).
+So the final outcome is: you run this Python file in a folder and it takes every '.mp4' item, and obtains the slides from them - and saves them out (and additionally puts them in a pdf for convenience). I have attached an example 'ch2 1 polynomial interpolation Van der Monde matrix Wen Shen.mp4' and the corresponding folder with the slides and pdf that gets outputted after running this script.
