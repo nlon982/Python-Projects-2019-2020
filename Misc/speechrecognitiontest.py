@@ -17,7 +17,7 @@ file_name, extension = os.path.splitext(input_file_path)
 python_file_directory = os.path.dirname(__file__)
 export_directory = os.path.join(python_file_directory, file_name) # up to you
 
-if os.path.exists(export_directory):
+if os.path.exists(export_directory) == True:
     shutil.rmtree(export_directory)
 os.mkdir(export_directory)
 
