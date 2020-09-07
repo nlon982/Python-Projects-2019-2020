@@ -14,3 +14,5 @@ Chronology:
   Instagram-Delete-Tool (early 2020)  
   Photoshop-Scripting (mid 2020)  
   Get-Slides-from-Video (mid 2020)  
+
+Note: https://github.com/nlon982/LiveLinkFixing is a current project i'm working on that isn't here (it hasn't been added to GitHub in retrospect).
