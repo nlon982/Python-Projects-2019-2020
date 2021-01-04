@@ -6,4 +6,4 @@ I enjoyed the design process (I have attached some of this design work in the 'D
 
 My friend ended up not needing this project any more, but I enjoyed getting up to the point I did. Run 'main.py' with Kivy installed to see this project.
 
-Funnily enough, after the summer holidays, I took a course called Compsci230 where what I had learnt about application building for this project was replicated, and extended (UML modelling, and design patterns were introduced in this course too). As to say, if I could do this project again, I would use Java - as per taught in Comp230.
+Funnily enough, after the summer holidays, I took a course called Compsci230 where what I had learnt about application building for this project was replicated, and extended (inheritance (before doing this project I knew nothing about it), UML modelling, and design patterns were introduced in this course too). As to say, if I could do this project again, I would use Java - as per taught in Comp230.
