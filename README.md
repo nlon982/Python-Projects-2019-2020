@@ -15,4 +15,4 @@ Chronology:
   Photoshop-Scripting (mid 2020)  
   Get-Slides-from-Video (mid 2020)  
 
-Note: https://github.com/nlon982/LiveLinkFixing is a current project i'm working on that isn't here (it hasn't been added to GitHub in retrospect).
+Note: https://github.com/nlon982/LiveLinkFixing is a current project i'm working on that isn't here (it hasn't been added to GitHub in retrospect). Warning: it is very messy! I plan to reorganize it with good practices in mind.
