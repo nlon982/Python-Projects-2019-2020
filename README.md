@@ -3,7 +3,7 @@ This folder contains some of my personal Python projects. All of these projects 
 
 The goal of having these projects on GitHub is:
   1) To have a sense of security that these projects are safe in one place online; I value being able to look at old projects to see my improvement
-  3) To show people what i've worked on
+  3) To show people what I've worked on
   
 Chronology:  
   SudokuProject (mid 2019)  
@@ -15,4 +15,4 @@ Chronology:
   Photoshop-Scripting (mid 2020)  
   Get-Slides-from-Video (mid 2020)  
 
-Note: https://github.com/nlon982/LiveLinkFixing is a current project i'm working on that isn't here (it hasn't been added to GitHub in retrospect). Warning: it is very messy! I plan to reorganize it with good practices in mind.
+Note: https://github.com/nlon982/LiveLinkFixing is a current project I'm working on that isn't here (it hasn't been added to GitHub in retrospect). Warning: it is very messy! I plan to reorganize it with good practices in mind.
