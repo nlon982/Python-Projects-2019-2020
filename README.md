@@ -1,7 +1,7 @@
 # Python-Projects-2019-2020
 This folder contains some of my personal Python projects. All of these projects have been added to GitHub in retrospect, and all of them could do with an extra layer of polish (since these are tools I made for myself or friends, this last layer of polish has never been added).
 
-The goal of having these projects on GitHub is:
+The goals of having these projects on GitHub are:
   1) To have a sense of security that these projects are safe in one place online; I value being able to look at old projects to see my improvement
   3) To show people what I've worked on
   
