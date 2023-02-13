@@ -15,4 +15,4 @@ Chronology:
   Photoshop-Scripting (mid 2020)  
   Get-Slides-from-Video (mid 2020)  
 
-Note: https://github.com/nlon982/Megascans_Custom_LOD_and_Bake is a project I worked on in 2020 (and did some work on at the beginning of 2021, in preperation of releasing it), and was released in Jan 2021.
+Note: https://github.com/nlon982/Megascans_Custom_LOD_and_Bake is a project I worked on in 2020 (and did some work on at the beginning of 2021, in preparation of releasing it), and was released in Jan 2021.
